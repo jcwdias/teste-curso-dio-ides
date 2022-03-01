@@ -6,7 +6,7 @@ public class PrimeiroPrograma {
 
 		Gato gato1 = new Gato();
 		
-		//gato1.setNome("Juca");;
+		//gato1.setNome("Juca!");;
 		
 		System.out.println(gato1);
 		
